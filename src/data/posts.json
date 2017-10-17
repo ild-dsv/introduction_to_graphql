@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "authorId": 1,
+    "title": "Introduction to GraphQL",
+    "content": "GraphQl is a query language.....",
+    "votes": 2
+  },
+  {
+    "id": 2,
+    "authorId": 2,
+    "title": "Welcome to Apollo",
+    "content": "Apollo can help us reduce the hard to use graphql..........",
+    "votes": 3
+  },
+  {
+    "id": 3,
+    "authorId": 2,
+    "title": "Advanced GraphQL",
+    "content": "Next step in graphql world.....",
+    "votes": 1
+  },
+  {
+    "id": 4,
+    "authorId": 3,
+    "title": "Launchpad is Cool",
+    "content": "Let's start explore Launchpad.....",
+    "votes": 7
+  }
+]

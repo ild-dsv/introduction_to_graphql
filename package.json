@@ -1,0 +1,28 @@
+{
+  "name": "introduction_to_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ild-dsv/introduction_to_graphql.git",
+  "author": "ild",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "graphql": "^0.11.7",
+    "graphql-server-express": "^1.1.7",
+    "graphql-tools": "^2.5.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "start": "nodemon ./src/server.js --exec babel-node -e js"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Helfer",
+    "lastName": "Jonas",
+    "nickname": "JH",
+    "url": "https://cdn-images-1.medium.com/fit/c/100/100/1*m-UGvVOGjdB-DvIccQ-qcw.jpeg"
+  },
+  {
+    "id": 2,
+    "firstName": "Sashko",
+    "lastName": "Stubailo",
+    "nickname": "Sam",
+    "url": "https://cdn-images-1.medium.com/fit/c/100/100/1*m-UGvVOGjdB-DvIccQ-qcw.jpeg"
+  },
+  {
+    "id": 3,
+    "firstName": "Mikhail",
+    "lastName": "Novikov",
+    "nickname": "Nova",
+    "url": "https://cdn-images-1.medium.com/fit/c/100/100/1*m-UGvVOGjdB-DvIccQ-qcw.jpeg"
+  },
+  {
+    "id": 4,
+    "firstName": "Leo",
+    "lastName": "Jack",
+    "nickname": "Leo J",
+    "url": "https://cdn-images-1.medium.com/fit/c/100/100/1*m-UGvVOGjdB-DvIccQ-qcw.jpeg"
+  }
+]
